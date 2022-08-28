@@ -1,4 +1,5 @@
-# 监测分支，2020年10月后github新建仓库默认分支改为main，记得更改
+name: Node.js Package
+# 监测图床分支，2020年10月后github新建仓库默认分支改为main，记得更改
 on:
   push:
     branches:
@@ -8,14 +9,13 @@ jobs:
   publish-npm:
     runs-on: ubuntu-latest
     steps:
-      - name: 检查分支
-        uses: actions/checkout@v2
-      - name: 安装 Node
-        uses: actions/setup-node@v1
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
         with:
-          node-version: '12.x'
+          node-version: "12.x"
           registry-url: https://registry.npmjs.org/
-      - name: 发布到npm
-        run: npm publish
+      - run: |
+          npm version patch
+          npm publish
         env:
-          NODE_AUTH_TOKEN: `+ '${{secrets.npm_token}}'
+          NODE_AUTH_TOKEN: ${{secrets.npm_token}}

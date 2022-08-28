@@ -32,6 +32,17 @@
     
     <entry>
       <title></title>
+      <link href="/package.json"/>
+      <url>/package.json</url>
+      
+        <content type="html"><![CDATA[{"name":"hexo-haorwen","version":"1.0.1","description":"mblog","main":"index.js","scripts":{"test":"echo \"Error: no test specified\" && exit 1"},"author":"haorwen","license":"ISC"}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
       

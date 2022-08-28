@@ -35,7 +35,7 @@
       <link href="/package.json"/>
       <url>/package.json</url>
       
-        <content type="html"><![CDATA[{"name":"hexo-haorwen","version":"1.0.3","description":"mblog","main":"index.js","scripts":{"test":"echo \"Error: no test specified\" && exit 1"},"author":"haorwen","license":"ISC"}]]></content>
+        <content type="html"><![CDATA[{"name":"hexo-haorwen","version":"1.0.8","description":"mblog","main":"index.js","scripts":{"test":"echo \"Error: no test specified\" && exit 1"},"author":"haorwen","license":"ISC"}]]></content>
       
     </entry>
     

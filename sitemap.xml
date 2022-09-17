@@ -28,6 +28,24 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://haorwen.tk/tags/index.html</loc>
+    
+    <lastmod>2022-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://haorwen.tk/categories/index.html</loc>
+    
+    <lastmod>2022-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>https://haorwen.tk/</loc>

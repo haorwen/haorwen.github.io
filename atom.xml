@@ -6,7 +6,7 @@
   <link href="https://haorwen.tk/atom.xml" rel="self"/>
   
   <link href="https://haorwen.tk/"/>
-  <updated>2022-09-16T14:10:13.625Z</updated>
+  <updated>2022-09-17T20:51:54.000Z</updated>
   <id>https://haorwen.tk/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>Hello World！</title>
     <link href="https://haorwen.tk/posts/3eeb.html"/>
     <id>https://haorwen.tk/posts/3eeb.html</id>
-    <published>2022-09-16T14:10:13.625Z</published>
-    <updated>2022-09-16T14:10:13.625Z</updated>
+    <published>2022-08-30T21:52:12.000Z</published>
+    <updated>2022-09-17T20:51:54.000Z</updated>
     
     <content type="html"><![CDATA[<h1 id="hello-world！"><a href="#hello-world！" class="headerlink" title="hello world！"></a>hello world！</h1><blockquote><p>这是我的第一篇文章,以此纪念我由wordpress转移到了hexo</p></blockquote>]]></content>
     
@@ -33,6 +33,8 @@
       
     
     
+    
+    <category term="归档" scheme="https://haorwen.tk/categories/%E5%BD%92%E6%A1%A3/"/>
     
     
   </entry>

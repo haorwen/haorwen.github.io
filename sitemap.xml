@@ -2,18 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://haorwen.tk/posts/hello-world.html</loc>
-    
-    <lastmod>2022-09-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://haorwen.tk/manifest.json</loc>
     
-    <lastmod>2022-09-18</lastmod>
+    <lastmod>2023-01-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +13,7 @@
   <url>
     <loc>https://haorwen.tk/package.json</loc>
     
-    <lastmod>2022-09-18</lastmod>
+    <lastmod>2023-01-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +22,7 @@
   <url>
     <loc>https://haorwen.tk/tags/index.html</loc>
     
-    <lastmod>2022-09-18</lastmod>
+    <lastmod>2023-01-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +31,7 @@
   <url>
     <loc>https://haorwen.tk/img/siteicon/README.html</loc>
     
-    <lastmod>2022-09-18</lastmod>
+    <lastmod>2023-01-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -48,6 +39,24 @@
   
   <url>
     <loc>https://haorwen.tk/categories/index.html</loc>
+    
+    <lastmod>2023-01-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://haorwen.tk/cdn/index.html</loc>
+    
+    <lastmod>2023-01-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://haorwen.tk/posts/hello-world.html</loc>
     
     <lastmod>2022-09-18</lastmod>
     
@@ -58,7 +67,7 @@
 
   <url>
     <loc>https://haorwen.tk/</loc>
-    <lastmod>2022-09-18</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -68,7 +77,7 @@
   
   <url>
     <loc>https://haorwen.tk/categories/%E5%BD%92%E6%A1%A3/</loc>
-    <lastmod>2022-09-18</lastmod>
+    <lastmod>2023-01-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

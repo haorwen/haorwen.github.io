@@ -59,6 +59,17 @@
     
     
     <entry>
+      <title>haorwen的公益cdn</title>
+      <link href="/cdn/index.html"/>
+      <url>/cdn/index.html</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>这里是我的cdn介绍页，因为不是很会写html就扔到hexo了。。</p></blockquote><h1 id="haorwen的公益cdn"><a href="#haorwen的公益cdn" class="headerlink" title="haorwen的公益cdn"></a>haorwen的公益cdn</h1><p>当前运行状态：</p>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>

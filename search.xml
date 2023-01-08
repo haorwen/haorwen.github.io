@@ -63,7 +63,7 @@
       <link href="/cdn/index.html"/>
       <url>/cdn/index.html</url>
       
-        <content type="html"><![CDATA[<blockquote><p>这里是我的cdn介绍页，因为不是很会写html就扔到hexo了。。</p></blockquote><h1 id="haorwen的公益cdn"><a href="#haorwen的公益cdn" class="headerlink" title="haorwen的公益cdn"></a>haorwen的公益cdn</h1><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script><script>  $.ajax({    type: 'GET',    url: 'https://api.gcorelabs.com/cdn/clients/me',    headers: {      'Authorization': 'APIKey 4254$48d2889de75243fd37555cdd7b6ac73a87e1211ecc19d2202c7ab1f6f5aa75b934982fc9b6a11560b10cd8193ae76a1b6ba2b77a9db2e37b287c8d72cae2d461'    },    success: function (data) {      $('#myDiv').text(data.status);    }  });</script><p>当前运行状态：</p><div id="myDiv"></div>]]></content>
+        <content type="html"><![CDATA[<blockquote><p>这里是我的cdn介绍页，因为不是很会写html就扔到hexo了。。</p></blockquote><h1 id="haorwen的公益cdn"><a href="#haorwen的公益cdn" class="headerlink" title="haorwen的公益cdn"></a>haorwen的公益cdn</h1><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script><p><script><br>  $.ajax({<br>    type: ‘GET’,<br>    url: ‘<a href="https://api.gcorelabs.com/cdn/clients/me">https://api.gcorelabs.com/cdn/clients/me</a>‘,<br>    headers: {<br>      ‘Authorization’: ‘APIKey 4254$48d2889de75243fd37555cdd7b6ac73a87e1211ecc19d2202c7ab1f6f5aa75b934982fc9b6a11560b10cd8193ae76a1b6ba2b77a9db2e37b287c8d72cae2d461’<br>    },<br>    success: function (data) {<br>      $(‘#myDiv’).text(data.service.status);</p><p>当前运行状态：</p><div id="myDiv"></div>]]></content>
       
     </entry>
     

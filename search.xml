@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>fiddler抓包实战-让不听话的程序乖乖走代理</title>
+      <link href="/posts/fidder.html"/>
+      <url>/posts/fidder.html</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>众所周知，fiddler是一款优秀的抓包工具，非常易于使用，但是在日常抓包中总有一些程序不走代理，以至于无法在fiddler中抓到请求，那我们该如何解决呢？</p></blockquote><p>我这里只是提供一种解决方法，如果大佬有更好的方案也欢迎指出！</p><p>我使用了<a href="http://soft.onlinedown.net/soft/971579.htm">Proxifier</a>这款工具，如果链接失效你也可以去百度搜索，功能大差不差。</p><hr><p>接下来打开Proxifier和fiddler，Proxifier初次启动应该是这样的：</p><p><img src="https://down.onmicrosoft.cn/qiniu/u202212013f459151_1674198389255_17371076_image.png" alt="first"></p><p>接下来点击上方菜单栏的配置文件，选择代理服务器，然后在弹出的界面选择添加，然后按我这样填写：</p><p><img src="https://down.onmicrosoft.cn/qiniu/u20221115caac3864_1674198773757_14260241_image.png" alt="daili"></p><p>（注意如果你修改过fiddler的端口，这里的也要一起更改）</p><p>然后点击检查，不出意外的话会正常通过，这种情况就可以保存了（如果不通过就检查一下你的fiddler是否正常启动以及地址端口是否填对）</p><p>如果问你是否要设置为默认就选择否</p><hr><p>接下来是代理规则部分，当保存完上述代理服务器会有如下弹窗：</p><p><img src="https://down.onmicrosoft.cn/qiniu/u20221115caac3864_1674199006145_17628861_image.png" alt="tanchuang"></p><p>点是，在新弹出的窗口点击添加，名称随意填，下面的几个空格应该也不难理解</p><p><img src="https://down.onmicrosoft.cn/qiniu/u20221017bb6d7454_1674199156400_10046635_image.png" alt="guize"></p><p>应用程序栏填写你需要抓包的app，默认是所有程序，目标主机就是你要抓包的ip，不填默认抓所有ip，端口也是同理，动作就选和我一样的，之后一直点确定直到回到主页面</p><hr><p><strong>不出意外的话，你现在就能在fiddler看到你想要的抓包内容了！</strong></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World！</title>
       <link href="/posts/hello-world.html"/>
       <url>/posts/hello-world.html</url>
